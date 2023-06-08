@@ -22,7 +22,7 @@ This guide is created to serve as an all-in-one reference for all the things you
 6. Place files from the archieve into the .minecraft folder.
 7. The folder should look like this:
     * ![mc-folder](https://i.imgur.com/pf9rXLG.png)
-8. Next time when you open the Minecraft launcher, you should have the following profile (the version numbers may be different):
+8. Next time when you open the Minecraft launcher, you should have the following profile:
     * ![cielo](https://i.imgur.com/7o7kjtK.png)
     * Play the game with this profile selected to run the game.
 
