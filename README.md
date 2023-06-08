@@ -6,8 +6,7 @@ This guide is created to serve as an all-in-one reference for all the things you
 
 ### Preparing
 
-  * Java is required to run the Minecraft/modpack. If your system doesn't have Java installed, download and install Java from [Adoptium Java downloads](https://adoptium.net/).
-  If you are using Windows and are still unable to run the installer, try using [Jarfix](https://johann.loefflmann.net/en/software/jarfix/index.html).
+  * Java is required to run the Minecraft/modpack. If your system doesn't have Java installed, download and install Java from [Oracle](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html).
 
   * If you don't already have Minecraft on your computer, then [download](https://www.microsoft.com/store/productId/9PGW18NPBZV5) it from the Microsoft store.
 
