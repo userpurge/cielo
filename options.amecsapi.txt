@@ -47,6 +47,7 @@ key_modifiers_key.amecs.toggle_right_pants_leg:0,0,0
 key_modifiers_key.amecs.toggle_hat:0,0,0
 key_modifiers_auditory.sound_reload_key:0,0,0
 key_modifiers_autothirdperson.toggle:0,0,0
+key_modifiers_blanket-client-tweaks.keys.rotateMinecartKey:0,0,0
 key_modifiers_key.cavedust.toggle:0,0,0
 key_modifiers_key.cavedust.reload:0,0,0
 key_modifiers_dsurround.text.keybind.individualSoundConfig:0,0,0

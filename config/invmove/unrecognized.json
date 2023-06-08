@@ -11,7 +11,8 @@
     "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
     "net.coderbot.iris.gui.screen.ShaderPackScreen": true,
     "net.minecraft.class_4895": true,
-    "net.minecraft.class_5375": true
+    "net.minecraft.class_5375": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true
   },
   "hideBackground": {
     "io.github.kosmx.emotes.arch.gui.screen.ingame.FastChosseScreen": true,
