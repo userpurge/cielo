@@ -1,0 +1,25 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_433": true,
+    "io.github.kosmx.emotes.arch.gui.screen.ingame.FastChosseScreen": true,
+    "io.github.kosmx.emotes.arch.gui.screen.ingame.FullScreenListImpl": true,
+    "net.minecraft.class_434": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "com.unlikepaladin.pfm.client.screens.WorkbenchScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "net.coderbot.iris.gui.screen.ShaderPackScreen": true,
+    "net.minecraft.class_4895": true,
+    "net.minecraft.class_5375": true
+  },
+  "hideBackground": {
+    "io.github.kosmx.emotes.arch.gui.screen.ingame.FastChosseScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "com.unlikepaladin.pfm.client.screens.WorkbenchScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "vazkii.patchouli.client.book.gui.GuiBookCategory": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
+    "net.minecraft.class_4895": true
+  }
+}
