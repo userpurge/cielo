@@ -12,7 +12,22 @@
     "net.coderbot.iris.gui.screen.ShaderPackScreen": true,
     "net.minecraft.class_4895": true,
     "net.minecraft.class_5375": true,
-    "com.terraformersmc.modmenu.gui.ModsScreen": true
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatScreen": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatSettingsScreen": true,
+    "de.maxhenkel.voicechat.gui.volume.AdjustVolumesScreen": true,
+    "de.maxhenkel.voicechat.gui.group.JoinGroupScreen": true,
+    "de.maxhenkel.voicechat.gui.CreateGroupScreen": true,
+    "de.maxhenkel.voicechat.gui.group.GroupScreen": true,
+    "journeymap.client.ui.waypoint.WaypointManager": true,
+    "journeymap.client.ui.dialog.AboutDialog": true,
+    "journeymap.client.ui.fullscreen.Fullscreen": true,
+    "journeymap.client.ui.fullscreen.menu.PopupMenu": true,
+    "journeymap.client.ui.waypoint.WaypointEditor": true,
+    "journeymap.client.ui.dialog.OptionsManager": true,
+    "net.minecraft.class_410": true,
+    "net.minecraft.class_407": true
   },
   "hideBackground": {
     "io.github.kosmx.emotes.arch.gui.screen.ingame.FastChosseScreen": true,
