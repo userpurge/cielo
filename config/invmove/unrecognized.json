@@ -27,7 +27,21 @@
     "journeymap.client.ui.waypoint.WaypointEditor": true,
     "journeymap.client.ui.dialog.OptionsManager": true,
     "net.minecraft.class_410": true,
-    "net.minecraft.class_407": true
+    "net.minecraft.class_407": true,
+    "journeymap.client.ui.component.ScrollPaneScreen": true,
+    "fabric.com.gitlab.cdagaming.craftpresence.config.gui.MainGui": true,
+    "fabric.com.gitlab.cdagaming.craftpresence.config.gui.ServerSettingsGui": true,
+    "fabric.com.gitlab.cdagaming.craftpresence.utils.gui.impl.SelectorGui": true,
+    "fabric.com.gitlab.cdagaming.craftpresence.utils.gui.impl.DynamicEditorGui": true,
+    "fabric.com.gitlab.cdagaming.craftpresence.config.gui.PresenceSettingsGui": true,
+    "fabric.com.gitlab.cdagaming.craftpresence.config.gui.GeneralSettingsGui": true,
+    "fabric.com.gitlab.cdagaming.craftpresence.config.gui.AdvancedSettingsGui": true,
+    "fabric.com.gitlab.cdagaming.craftpresence.config.gui.BiomeSettingsGui": true,
+    "fabric.com.gitlab.cdagaming.craftpresence.config.gui.DimensionSettingsGui": true,
+    "fabric.com.gitlab.cdagaming.craftpresence.config.gui.StatusMessagesGui": true,
+    "fabric.com.gitlab.cdagaming.craftpresence.config.gui.AccessibilitySettingsGui": true,
+    "fabric.com.gitlab.cdagaming.craftpresence.utils.gui.impl.ControlsGui": true,
+    "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true
   },
   "hideBackground": {
     "io.github.kosmx.emotes.arch.gui.screen.ingame.FastChosseScreen": true,
@@ -36,6 +50,7 @@
     "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
     "vazkii.patchouli.client.book.gui.GuiBookCategory": true,
     "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
-    "net.minecraft.class_4895": true
+    "net.minecraft.class_4895": true,
+    "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true
   }
 }
