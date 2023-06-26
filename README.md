@@ -34,6 +34,8 @@ This guide is created to serve as an all-in-one reference for all the things you
   * Toggle Zoom: `C`
   * Voice Chat (Push To Talk): `V`
   * Voice Chat (Whisper): `B`
+  * Waypoint Menu: `N`
+  * Fullscreen Map: `M`
   * Toggle Shaders: `Page Up`
   * Reload Shaders: `Page Down`
 
